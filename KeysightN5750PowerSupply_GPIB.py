@@ -32,3 +32,4 @@ inst2.write("OUTP ON")
 inst2.write("VOLT 0")
 
 inst2.write("OUTP OFF")
+
