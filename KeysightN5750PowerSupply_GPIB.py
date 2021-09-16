@@ -6,7 +6,7 @@
 Spyder Editor
 This is a temporary script file.
 """
-import visa
+import pyvisa as visa
 from datetime import datetime
 import numpy as np
 import matplotlib.pyplot as plt
